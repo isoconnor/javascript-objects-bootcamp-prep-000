@@ -1,3 +1,4 @@
 var playlist = { Diplo: "Lean On"};
 
-Object.assign({}, playlist, )
+Object.assign({}, playlist, {name: ['song']})
+
