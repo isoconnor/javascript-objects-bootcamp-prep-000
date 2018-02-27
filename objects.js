@@ -1,1 +1,1 @@
-var playList = { Diplo: "Lean On"};
+var playlist = { Diplo: "Lean On"};
